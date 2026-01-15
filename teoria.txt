@@ -1,0 +1,51 @@
+###     Introduccion a streamlit overview (1)
+#   Libreria de python
+#       Es una libreria destinada a realizar aplicaciones web de una manera facil y sencilla.
+
+#   Ofrece widgets de fron-end
+#       La libreria ofrece una gran cantidad de widgets de front-end que permiten a usuario interactuar con la web app
+
+#   Orientada a datos
+#       Ademas, permite representar datos usando librerias externas (plotly, bokeh, matplotlib, etc).
+
+#   Cambia tu concepto del scripting
+#       Decora los scripts con streamlit para hacerlos dinamicos y visuales con muy poco esfuerzo.
+
+#   Despliegue
+#       Realiza demos de una manera rapida para que los demas puedan acceder o crea una web app totalmente accesible.
+
+#   Python puro
+#       Todo realizado en python, aunque permite inyectar trozos de HTML o JS
+
+#   Que ofrece Streamlit?
+#       * Front-end:
+#           * Web app.
+#           * widgets.
+#               * write / magic.
+#               * text.
+#               * Data.
+#               * Chart.
+#               * input.
+#               * Media.
+#               * Layouts.
+#               * Contenedores.
+#               * Chat.
+#               * Estado / progreso.
+#           * Componentes de terceros.
+
+#       * Back-end:
+#           * Navegacion.
+#           * Paginas.
+#           * Flujo de ejecucion.
+#           * Cacheo.
+#           * session state.
+#           * conexiones.
+#           * Configuracion.
+
+#   1. Familiaridad con Streamlit para productivizar scripts
+#   2. Entender los widgets (elementos de pagina) Que ofrece Streamlit (cajas, botones, barras de progreso, contenido
+#   multimedia, file upload...)
+#   3. Entender los conceptos avanzados de la logica de una aplicacion en Streamlit
+#   3. Proyecto: Exploracion de los datos de pasajeros del titanic
+
+#   Min 25
