@@ -48,4 +48,3 @@
 #   3. Entender los conceptos avanzados de la logica de una aplicacion en Streamlit
 #   3. Proyecto: Exploracion de los datos de pasajeros del titanic
 
-#   Min 25
