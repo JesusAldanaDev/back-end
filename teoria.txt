@@ -56,3 +56,5 @@
             * st.markdown() admite html  
         * Elementos de datos: st.dataframe(), edited, st.data_editor(), st.metric()
             * Los dataframes admiten mas que texto y numeros utilizando "Column_config" (por ejemplo: fotos, graficos, emojis, etc.)            
+
+min 21
