@@ -48,3 +48,11 @@
 #   3. Entender los conceptos avanzados de la logica de una aplicacion en Streamlit
 #   3. Proyecto: Exploracion de los datos de pasajeros del titanic
 
+###         Hands-on Streamlit
+#   Basicos: En este capitulo vamos a ver los elementos de pagina o widgets mas relevantes y esenciales de la libreria
+    Streamlit. El Caso En la demo sera un Contour Plot de datos generados aleatoriamente.
+        * Elementos de textos: st.write(), st.title(), st.markdown(), st.divider()
+            * st.write() Es capaz de procesar todo tipo de variables, estructuras de datos, objetos, librerias...
+            * st.markdown() admite html  
+        * Elementos de datos: st.dataframe(), edited, st.data_editor(), st.metric()
+            * Los dataframes admiten mas que texto y numeros utilizando "Column_config" (por ejemplo: fotos, graficos, emojis, etc.)            
