@@ -87,4 +87,4 @@ if "Plotly" in plot_type:
     st.plotly_chart(fig2)
 
 
-# min 48
+# min 48.
